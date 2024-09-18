@@ -351,6 +351,8 @@ button:hover {
     width: 100%; /* Make sure it takes the full width */
     bottom: 0; /* Align it to the bottom of the page */
     font-family: 'Arial', sans-serif; /* Set the font */
+    font-size: 14px; /* Keep the text readable */
+    line-height: 1.2; /* Make text spacing tighter */
 }
 
 /* Custom scrollbar for modern browsers */
