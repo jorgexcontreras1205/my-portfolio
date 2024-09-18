@@ -374,3 +374,10 @@ button:hover {
 ::-webkit-scrollbar-thumb:hover {
     background-color: #555; /* Darken on hover for interaction feedback */
 }
+
+/* Optional: Firefox custom scrollbar */
+html {
+    scrollbar-width: medium; /* Medium width to make it noticeable */
+    scrollbar-color: #666 #e0e0e0; /* Thumb color and track color */
+}
+
