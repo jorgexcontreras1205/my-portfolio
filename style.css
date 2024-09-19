@@ -496,5 +496,4 @@ html {
 .contact_info img {
     margin-right: 10px;
     vertical-align: middle;
-    filter: invert(100%); /* This inverts the image colors to match white text, if necessary */
 }
